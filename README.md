@@ -21,5 +21,7 @@ You can see the description of the implementation method in the following file:
 
 ## Rock-Paper-Scissors Dataset
 
+![App Screenshot](https://github.com/kiananvari/CNN-rock-paper-scissors-image-classicification/raw/main/rps-dataset-examples.png)
+
 
 
